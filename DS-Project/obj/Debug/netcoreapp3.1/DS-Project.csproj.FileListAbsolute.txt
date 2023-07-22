@@ -1,0 +1,14 @@
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.exe
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.deps.json
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.runtimeconfig.json
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.runtimeconfig.dev.json
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.dll
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\bin\Debug\netcoreapp3.1\DS-Project.pdb
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.csproj.AssemblyReference.cache
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.AssemblyInfoInputs.cache
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.AssemblyInfo.cs
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.csproj.CoreCompileInputs.cache
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.dll
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.pdb
+D:\USC\Term 4\Sakhteman Dadeh\Project\DS-Project\DS-Project\obj\Debug\netcoreapp3.1\DS-Project.genruntimeconfig.cache
